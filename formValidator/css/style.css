@@ -11,7 +11,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color:rgb(118, 238, 202);
+    background-color:rgba(118, 238, 202, 0.6);
  }
 .container {
     background-color:#fff;
