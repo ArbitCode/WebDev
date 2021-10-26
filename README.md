@@ -2,8 +2,10 @@
 
 Form Validation
 1. success UI
- ![success example](formValidator/images/success.png "success image")
+ ![success example](images/success.png "success image")
 
 2. Error UI
-![Error example](formValidator/images/error.png "error image")
+![Error example](images/error.png "error image")
 
+Login UI
+![Login UI](/images/login.gif)
