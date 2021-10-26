@@ -7,5 +7,8 @@ Form Validation
 2. Error UI
 ![Error example](images/error.png "error image")
 
-Login UI
+Login
+
+1. UI \
+   \
 ![Login UI](/images/login.gif)
